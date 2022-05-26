@@ -4,4 +4,5 @@ twitter-to-kafka-service:
     - Microservices
     - Kafka
     - Elasticsearch
+    - Japan
   welcome-message: Hello microservices!
